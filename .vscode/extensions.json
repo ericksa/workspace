@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "golang.go",
+        "redhat.java",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "redhat.vscode-yaml"
+    ]
+}

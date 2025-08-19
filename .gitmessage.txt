@@ -1,0 +1,7 @@
+# Commit template (lines starting with # are ignored)
+Context:
+Changes:
+Why (incl. failure/symptoms):
+Solution:
+Outcome:
+Next steps:
